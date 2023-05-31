@@ -1,0 +1,4 @@
+lib_x64/
+
+*.exe
+*.pro.user
